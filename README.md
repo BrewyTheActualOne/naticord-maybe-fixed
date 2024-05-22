@@ -3,7 +3,7 @@
 
 Naticord / Native-cord is a native Discord client made in C# (originally Python).
 
-Supports Windows 2000 - Windows 11 (Windows 2000 - Vista need proxy settings to work which you can setup with `PROXY.md`)
+Supports Windows 98 (it supports .NET 4.0) - Windows 11 (Windows 2000 - Vista need proxy settings to work which you can setup with `PROXY.md`)
 
 <a href="https://star-history.com/#n1d3v/naticord&Date">
  <picture>
